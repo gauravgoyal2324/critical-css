@@ -129,7 +129,7 @@ Full example (using Elixir to generate the URL for the CSS file, which or course
 
 For multiple views, you may wrap `@criticalCss` in a `@section`, then `@yield` the section in a master view.
 
-## A demo
+## A demo is here for you
 
 I made a simple demo using [this](http://startbootstrap.com/template-overviews/clean-blog/) Bootstrap theme. It's a fairly simple theme, and it does not have any major performance issues, but yet, implementing inline critical-path CSS **did** improve performance.
 
